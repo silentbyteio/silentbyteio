@@ -162,12 +162,12 @@ Interested in:
 ## `10 / GITHUB STATISTICS`
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=ff3333&icon_color=ff3333" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&title_color=ff3333" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=silentbyteio&show_icons=true&theme=dark&hide_border=true&title_color=ff3333&icon_color=ff3333" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silentbyteio&layout=compact&theme=dark&hide_border=true&title_color=ff3333" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&ring=ff3333&fire=ff3333&currStreakLabel=ff3333" />
+  <img width="95%" src="https://streak-stats.demolab.com?user=silentbyteio&theme=dark&hide_border=true&ring=ff3333&fire=ff3333&currStreakLabel=ff3333" />
 </p>
 
 ---
@@ -175,7 +175,7 @@ Interested in:
 ## `11 / CONNECT WITH ME`
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/silentbyteio">
     <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
