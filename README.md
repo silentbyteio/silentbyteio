@@ -157,20 +157,18 @@ Interested in:
 - Linux & Open Source
 - Building real-world applications
 
----
 
 ## `10 / GITHUB STATISTICS`
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=silentbyteio&show_icons=true&theme=dark&hide_border=true&title_color=ff3333&icon_color=ff3333" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silentbyteio&layout=compact&theme=dark&hide_border=true&title_color=ff3333" />
+  <img src="https://github-readme-stats.vercel.app/api?username=silentbyteio&show_icons=true&theme=dark&hide_border=true&title_color=ff3333&icon_color=ff3333" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silentbyteio&layout=compact&theme=dark&hide_border=true&title_color=ff3333" width="49%" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=silentbyteio&theme=dark&hide_border=true&ring=ff3333&fire=ff3333&currStreakLabel=ff3333" />
+  <img src="https://streak-stats.demolab.com?user=silentbyteio&theme=dark&hide_border=true&ring=ff3333&fire=ff3333&currStreakLabel=ff3333" width="95%" />
 </p>
 
----
 
 ## `11 / CONNECT WITH ME`
 
